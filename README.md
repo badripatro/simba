@@ -1,4 +1,4 @@
-# SiMBA: SiMBA: Simplified Mamba-based Architecture for Vision and Multivariate Time series
+# SiMBA: Simplified Mamba-based Architecture for Vision and Multivariate Time series
 
 ![Intro](fig/simba_teaser.png)
 
